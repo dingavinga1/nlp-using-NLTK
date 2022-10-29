@@ -1,0 +1,6 @@
+matplotlib
+nltk
+bs4
+requests
+networkx
+scipy

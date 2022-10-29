@@ -2,15 +2,6 @@
 ##################################
 ##################################
 
-# PREREQUISITES FOR THIS PROGRAM #
-# $pip install matplotlib
-# $pip install nltk
-# $pip install bs4
-# $pip install requests
-# $pip install networkx
-# $pip install scipy
-##################################
-
 ########### GUIDELINES ###########
 # This program extracts data from
 # 5 webpages each from the websites
